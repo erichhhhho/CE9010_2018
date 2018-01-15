@@ -1,10 +1,15 @@
 
-# CE9010 Introduction to Data Science <br> Sem 2 2017-18, Xavier Bresson
+
+## CE9010: "Introduction to Data Science"
+## Sem 2 2017-18
+## Xavier Bresson
 
 
-# Usage 
+<br>
+## Install Pyhton and run codes  
+<br>
 
-Based on Michael Defferrard's instructions, December 2017
+
 
 For a local installation, [Python] and [git] are needed. It is recommended to install [Miniconda], a distribution of the [conda] package and environment manager. Please follow the below instructions to install it and create an environment for the course:
 
@@ -27,6 +32,10 @@ Every time you want to work, do the following:
 1. Start Jupyter with `jupyter notebook` or `jupyter lab`. The command should
    open a new tab in your web browser.
 1. Edit and run the notebooks from your browser.
+
+
+Note: Instructions based on Michael Defferrard, December 2017
+
 
 [git]: https://git-scm.com
 [python]: https://www.python.org
