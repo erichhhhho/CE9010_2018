@@ -24,8 +24,6 @@ dependencies:
 - sympy
 - sqlalchemy
 - xlrd
-- tables
-- facebook-sdk
 - requests
 # deep learning
 - tensorflow
