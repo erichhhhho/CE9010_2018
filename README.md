@@ -32,6 +32,7 @@ For a local installation, [Python] and [git] are needed. It is recommended to in
 <br>
 
 1. Open a terminal. Windows: Open the Anaconda Prompt terminal from the Start menu.
+1. Download the new Python exercises (if needed): Go to folder CE9010_2018 with `cd CE9010_2018`, and `git pull`. 
 1. Activate the environment with `activate CE9010_2018`
    (or `conda activate CE9010_2018`, or `source activate CE9010_2018`).
 1. Start Jupyter with `jupyter notebook` (or `jupyter-notebook`, or `jupyter lab`). The command
@@ -51,3 +52,7 @@ Note: Instructions based on Michael Defferrard, December 2017
 [miniconda]: https://conda.io/miniconda.html
 [conda]: https://conda.io
 [conda-forge]: https://conda-forge.org
+
+
+
+
