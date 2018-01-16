@@ -6,7 +6,7 @@
 
 
 <br>
-## Install Pyhton and run codes  
+## Install Python  
 <br>
 
 
@@ -22,11 +22,16 @@ For a local installation, [Python] and [git] are needed. It is recommended to in
 1. Download the Python repository of the course by running
    `git clone https://github.com/xbresson/CE9010_2018`.
 1. Create an environment with the packages required for the course with
-   `conda env create -f CE9010_2018/environment.yml`.
+   `conda env create -f CE9010_2018/environment.yml`. Note: It may take some time.
 
-Every time you want to work, do the following:
 
-1. Open a terminal. Windows: open the Anaconda Prompt from the Start menu.
+
+
+<br>
+## Run Python codes  
+<br>
+
+1. Open a terminal. Windows: Open the Anaconda Prompt terminal from the Start menu.
 1. Activate the environment with `conda activate CE9010_2018`
    (or `activate CE9010_2018`, or `source activate CE9010_2018`).
 1. Start Jupyter with `jupyter notebook` or `jupyter lab`. The command should
@@ -34,6 +39,8 @@ Every time you want to work, do the following:
 1. Edit and run the notebooks from your browser.
 
 
+
+<br>
 Note: Instructions based on Michael Defferrard, December 2017
 
 
