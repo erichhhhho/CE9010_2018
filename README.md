@@ -6,7 +6,7 @@
 
 
 <br>
-## Install Python  
+## Install Python   
 <br>
 
 
