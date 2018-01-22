@@ -1,0 +1,8 @@
+*~
+_Store
+
+__pycache__/
+tutorials/.ipynb_checkpoints/
+
+tutorials/html/
+
