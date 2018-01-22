@@ -1,7 +1,8 @@
 *~
-_Store
+.DS_Store
 
-__pycache__/
+tutorials/.DS_Store/
+tutorials/__pycache__/
 tutorials/.ipynb_checkpoints/
 
 tutorials/html/
