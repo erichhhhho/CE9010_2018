@@ -62,7 +62,7 @@ The following times:
 1. When you are done with the notebook, go back to the terminal and shut down the juypter kernels with `Control-C`. 
 1. Save the notebook with git: `git add .` and `git commit -m tutorial02`.
 
-   Note: [Understand git conflicts]
+   Note: [Understanding git conflicts]
 
 [Understand git conflicts]: git/git_xb.pdf
 
