@@ -21,8 +21,10 @@ For a local installation, [Python] and [git] are needed. It is recommended to in
 1. Create an environment with the packages required for the course with
    `conda env create -f CE9010_2018/environment.yml`. Note 1: It may take some time. Note 2: List the python packages with `conda list`.
 
-   Note: Instructions based on Michael Defferrard, December 2017
+   Note: Instructions based on Michael Defferrard, December 2017<br>
+   Note: Read [Conda command lines for packages and environments]
 
+[Conda command lines for packages and environments]: conda/conda_cheatsheet.pdf
 
 
 
@@ -44,7 +46,7 @@ First time:
 1. Save the notebook with git: `git branch my_branch`, `git checkout my_branch`, `git add .`, and `git commit -m tutorial01`.
 
 	Note for Windows: Folder CE9010_2018 is located at C:\Users\user_name\CE9010_2018<br>
-	Note: Common conda commands are: pwd, cd, ls -al, rm -r -f folder/
+	Note: Common Conda commands are: pwd, cd, ls -al, rm -r -f folder/
 
 
 The following times:
@@ -60,7 +62,9 @@ The following times:
 1. When you are done with the notebook, go back to the terminal and shut down the juypter kernels with `Control-C`. 
 1. Save the notebook with git: `git add .` and `git commit -m tutorial02`.
 
+   Note: [Understand git conflicts]
 
+[Understand git conflicts]: git/git_xb.pdf
 
 
 
