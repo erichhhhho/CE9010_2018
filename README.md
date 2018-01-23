@@ -1,11 +1,11 @@
-## CE9010: Introduction to Data Science
-## Semester 2 2017/18
-## Xavier Bresson
+## CE9010: Introduction to Data Science ##
+## Semester 2 2017/18 ##
+## Xavier Bresson ##
 <hr>
 
 
 <br>
-## Install Python 
+## Install Python ##
 <hr>
 
 For a local installation, [Python] and [git] are needed. It is recommended to install [Miniconda], a distribution of the [conda] package and environment manager. Please follow the below instructions to install it and create an environment for the course:
@@ -25,7 +25,7 @@ For a local installation, [Python] and [git] are needed. It is recommended to in
 
 
 <br>
-## Run Python codes  
+## Run Python codes ##
 <hr>
 
 1. Open a terminal. Windows: Open the Anaconda Prompt terminal from the Start menu.
