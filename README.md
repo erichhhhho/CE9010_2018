@@ -57,6 +57,7 @@ The following times:
    opens a new tab in your web browser.
 1. Go to the folder `tutorials` and duplicate the notebook `tutorial02.ipynb` (for example) with the new name `my_tutorial02.ipynb`.
 1. Open, edit and run the notebook `tutorial02.ipynb` from your browser.
+1. When you are done with the notebook, go back to the terminal and shut down the juypter kernels with `Control-C`. 
 1. Save the notebook with git: `git add .` and `git commit -m tutorial02`.
 
 
