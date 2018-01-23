@@ -1,7 +1,6 @@
 ## CE9010: Introduction to Data Science 
 ## Semester 2 2017/18 
 ## Xavier Bresson 
-## Install Python
 <hr>
 
 
