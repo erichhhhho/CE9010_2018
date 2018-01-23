@@ -21,6 +21,8 @@ For a local installation, [Python] and [git] are needed. It is recommended to in
 1. Create an environment with the packages required for the course with
    `conda env create -f CE9010_2018/environment.yml`. Note 1: It may take some time. Note 2: List the python packages with `conda list`.
 
+   Note: Instructions based on Michael Defferrard, December 2017
+
 
 
 
@@ -28,18 +30,37 @@ For a local installation, [Python] and [git] are needed. It is recommended to in
 ## Run Python codes 
 <hr>
 
+First time:
+
 1. Open a terminal. Windows: Open the Anaconda Prompt terminal from the Start menu.
-1. Download the new Python exercises (if needed): Go to folder CE9010_2018 with `cd CE9010_2018`, and `git pull`. 
+1. Download the Python notebooks: Go to folder CE9010_2018 with `cd CE9010_2018`, and `git pull`. 
 1. Activate the environment with `activate CE9010_2018`
    (or `conda activate CE9010_2018`, or `source activate CE9010_2018`).
 1. Start Jupyter with `jupyter notebook` (or `jupyter-notebook`, or `jupyter lab`). The command
    opens a new tab in your web browser.
-1. Edit and run the notebooks from your browser.
+1. Go to the folder `tutorials` and duplicate the notebook `tutorial01.ipynb` (for example) with the new name `my_tutorial01.ipynb` (to avoid future conflicts).
+1. Open, edit and run the notebook from your browser.
+1. Save the notebook with git: `git branch my_branch`, `git checkout my_branch`, `git add .`, and `git commit -m tutorial01`.
+
+	Note for Windows: Folder CE9010_2018 is located at C:\Users\user_name\CE9010_2018<br>
+	Note: Common conda commands are: pwd, cd, ls -al, rm -r -f folder/
+
+
+The following times:
+
+1. Open a terminal. Windows: Open the Anaconda Prompt terminal from the Start menu.
+1. Go to folder CE9010_2018 with `cd CE9010_2018`, and `git checkout master`, `git pull`, `git checkout my_branch`, and `git merge master`.
+1. Activate the environment with `activate CE9010_2018`
+   (or `conda activate CE9010_2018`, or `source activate CE9010_2018`).
+1. Start Jupyter with `jupyter notebook` (or `jupyter-notebook`, or `jupyter lab`). The command
+   opens a new tab in your web browser.
+1. Go to the folder `tutorials` and duplicate the notebook `tutorial02.ipynb` (for example) with the new name `my_tutorial02.ipynb`.
+1. Open, edit and run the notebook from your browser.
+1. Save the notebook with git: `git add .` and `git commit -m tutorial02`.
 
 
 
-<br>
-Note: Instructions based on Michael Defferrard, December 2017
+
 
 
 [git]: https://git-scm.com
