@@ -1,4 +1,6 @@
 name: CE9010_2018_light
+channels:
+- conda-forge
 dependencies:
 # basic
 - git
