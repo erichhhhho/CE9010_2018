@@ -46,7 +46,12 @@ First time:
 1. Save the notebook with git: `git branch my_branch`, `git checkout my_branch`, `git add .`, and `git commit -m tutorial01`.
 
 	Note for Windows: Folder CE9010_2018 is located at C:\Users\user_name\CE9010_2018<br>
-	Note: Common Conda commands are: pwd, cd, ls -al, rm -r -f folder/
+	Note: Common Conda commands are: pwd, cd, ls -al, rm -r -f folder/<br>
+   Note: Add a python library to the environment: `conda install -n CE9010_2018 numpy` (for example)<br>
+   Note: Read [managing Conda environments]
+
+[managing Conda environments]: conda/conda_environments.pdf
+
 
 
 The following times:

@@ -1,0 +1,19 @@
+name: CE9010_2018_light
+dependencies:
+# basic
+- git
+- python
+- numpy
+- scipy
+- pandas
+- matplotlib
+- scikit-learn
+- networkx
+- ipython
+- jupyter
+- jupyterlab_launcher=0.5.0
+# additional
+# deep learning
+- tensorflow
+- keras
+
