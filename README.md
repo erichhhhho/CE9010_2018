@@ -29,7 +29,7 @@ For a local installation, [Python] and [git] are needed. It is recommended to in
 
 
 <br>
-## Run Python codes 
+## Run Python notebooks 
 <hr>
 
 First time:
