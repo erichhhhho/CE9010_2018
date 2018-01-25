@@ -45,7 +45,7 @@ First time:
 [managing Conda environments]: conda/conda_environments.pdf
 
 
-
+<br>
 The following times:
 
 1. Open a terminal. Windows: Open the Anaconda Prompt terminal from the Start menu.
