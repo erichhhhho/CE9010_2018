@@ -1,6 +1,4 @@
-## CE9010: Introduction to Data Science 
-## Semester 2 2017/18 
-## Xavier Bresson 
+## CE9010: Introduction to Data Science <br> Semester 2 2017/18 <br> Xavier Bresson 
 <hr>
 
 
@@ -45,8 +43,8 @@ First time:
 1. When you are done with the notebook, go back to the terminal and shut down the juypter kernels with `Control-C`. 
 1. Save the notebook with git: `git branch my_branch`, `git checkout my_branch`, `git add .`, and `git commit -m tutorial01`.
 
-	Note for Windows: Folder CE9010_2018 is located at C:\Users\user_name\CE9010_2018<br>
-	Note: Common Conda commands are: pwd, cd, ls -al, rm -r -f folder/<br>
+	Note for Windows: Folder CE9010_2018 is located at `C:\Users\user_name\CE9010_2018`<br>
+	Note: Common Conda commands are: `pwd`, `cd`, `ls -al`, `rm -r -f folder/`<br>
    Note: Add a python library to the environment: `conda install -n CE9010_2018 numpy` (for example)<br>
    Note: Read [managing Conda environments]
 
@@ -67,8 +65,10 @@ The following times:
 1. When you are done with the notebook, go back to the terminal and shut down the juypter kernels with `Control-C`. 
 1. Save the notebook with git: `git add .` and `git commit -m tutorial02`.
 
+   Note: [git commands]<br>
    Note: [Understanding git conflicts]
 
+[git commands]: git/git_commands.pdf
 [Understanding git conflicts]: git/git_xb.pdf
 
 
