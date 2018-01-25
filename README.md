@@ -22,7 +22,6 @@ For a local installation, [Python] and [git] are needed. It is recommended to in
 [Conda command lines for packages and environments]: conda/conda_cheatsheet.pdf
 
 
-  <br>
 ## Run Python notebooks 
 
 First time:
